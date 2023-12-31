@@ -1,0 +1,16 @@
+C:\Users\Aritz\Documents\FPEsteAño\Proyectos WPF Interfaces\DEIN\DataBindingFormularios\bin\Debug\DataBindingFormularios.exe.config
+C:\Users\Aritz\Documents\FPEsteAño\Proyectos WPF Interfaces\DEIN\DataBindingFormularios\bin\Debug\DataBindingFormularios.exe
+C:\Users\Aritz\Documents\FPEsteAño\Proyectos WPF Interfaces\DEIN\DataBindingFormularios\bin\Debug\DataBindingFormularios.pdb
+C:\Users\Aritz\Documents\FPEsteAño\Proyectos WPF Interfaces\DEIN\DataBindingFormularios\obj\Debug\DataBindingFormularios.csproj.AssemblyReference.cache
+C:\Users\Aritz\Documents\FPEsteAño\Proyectos WPF Interfaces\DEIN\DataBindingFormularios\obj\Debug\MainWindow.g.cs
+C:\Users\Aritz\Documents\FPEsteAño\Proyectos WPF Interfaces\DEIN\DataBindingFormularios\obj\Debug\App.g.cs
+C:\Users\Aritz\Documents\FPEsteAño\Proyectos WPF Interfaces\DEIN\DataBindingFormularios\obj\Debug\DataBindingFormularios_MarkupCompile.cache
+C:\Users\Aritz\Documents\FPEsteAño\Proyectos WPF Interfaces\DEIN\DataBindingFormularios\obj\Debug\DataBindingFormularios_MarkupCompile.lref
+C:\Users\Aritz\Documents\FPEsteAño\Proyectos WPF Interfaces\DEIN\DataBindingFormularios\obj\Debug\MainWindow.baml
+C:\Users\Aritz\Documents\FPEsteAño\Proyectos WPF Interfaces\DEIN\DataBindingFormularios\obj\Debug\DataBindingFormularios.g.resources
+C:\Users\Aritz\Documents\FPEsteAño\Proyectos WPF Interfaces\DEIN\DataBindingFormularios\obj\Debug\DataBindingFormularios.Properties.Resources.resources
+C:\Users\Aritz\Documents\FPEsteAño\Proyectos WPF Interfaces\DEIN\DataBindingFormularios\obj\Debug\DataBindingFormularios.csproj.GenerateResource.cache
+C:\Users\Aritz\Documents\FPEsteAño\Proyectos WPF Interfaces\DEIN\DataBindingFormularios\obj\Debug\DataBindingFormularios.csproj.CoreCompileInputs.cache
+C:\Users\Aritz\Documents\FPEsteAño\Proyectos WPF Interfaces\DEIN\DataBindingFormularios\obj\Debug\DataBindingFormularios.exe
+C:\Users\Aritz\Documents\FPEsteAño\Proyectos WPF Interfaces\DEIN\DataBindingFormularios\obj\Debug\DataBindingFormularios.pdb
+C:\Users\Aritz\Documents\FPEsteAño\Proyectos WPF Interfaces\DEIN\DataBindingFormularios\obj\Debug\DataBindingFormularios_Content.g.cs

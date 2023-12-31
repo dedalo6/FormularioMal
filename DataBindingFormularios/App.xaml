@@ -1,0 +1,15 @@
+﻿<Application x:Class="DataBindingFormularios.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:DataBindingFormularios"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <!--Damos a todas lastextBox un evento PreviewKeyDown, que se ejecuta antes de procesar un evento de KeyDown-->
+        <!--Y creamos un metodo handler tambien, que definimos en el code-behind de App.xaml.cs-->
+        <Style TargetType="TextBox">
+            <EventSetter Event="PreviewKeyDown" Handler="TextBox_PreviewKeyDown"/>
+        </Style>
+        <!--Alternativa en codigo de UIElement-->
+        <!--<TextBox Name="textBox" PreviewKeyDown="TextBox_PreviewKeyDown"/>-->
+    </Application.Resources>
+</Application>
